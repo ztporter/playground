@@ -1,0 +1,2 @@
+### C 2nd edition
+If *C 2nd edition* by K&R is the C bible then I suppose this is where I record my C devotionals. I initially aspired to completing all of the exercises, but frankly they take a long time to do and I've found that for several of them they can be a little repetitive. Most of the files only depend on the standard libraries so compilation is straightforward enough to not need a makefile.
